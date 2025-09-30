@@ -1,4 +1,18 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Museum Landing Page
+[DEMO LINK](https://YuliaProkipchuk.github.io/The_Met/)
+A modern and informative landing page for a museum that presents the institution, its exhibitions, events, and services. The app is designed to engage visitors, encouraging them to attend the museum or register for events.
+
+**Key Features**
+
+* **Exhibitions & Galleries:** A section with images and descriptions of permanent and temporary exhibitions.
+* **Events & Activities:** A schedule of upcoming events, workshops, and guided tours.
+* **Contacts & Map:** Google Maps integration, contact details, and opening hours.
+* **CTAs (Calls to Action):** Prompts to buy tickets, book a tour, or subscribe to the newsletter.
+
+**Technologies Used**
+
+* **Frontend:** HTML5, CSS3 (SCSS).
+* **Responsive Design:** Fully optimized for mobile, tablet, and desktop devices.
+
+
+
