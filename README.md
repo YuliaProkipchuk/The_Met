@@ -1,5 +1,6 @@
 # Museum Landing Page
 [DEMO LINK](https://YuliaProkipchuk.github.io/The_Met/)
+
 A modern and informative landing page for a museum that presents the institution, its exhibitions, events, and services. The app is designed to engage visitors, encouraging them to attend the museum or register for events.
 
 **Key Features**
